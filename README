@@ -1,0 +1,3 @@
+This is a horrible horribe PHP script which grabs your contacts from Google, and outputs them in a format compatible with Cisco 79xx IP Phones.
+
+If you can clean this mess up, or write your own version, please let me know. I don't have enough time to fix this mess, and I hate PHP! :)
